@@ -1,0 +1,3 @@
+I have implemented a basic file system prototype that provides core functionalities like opening, closing, writing, reading, seeking, removing files, and retrieving file sizes. This file system utilizes a window-based structure, incorporating elements such as a Superblock, Inodes, Datablocks, and a Free Bitmap for efficient storage management. Additionally, it leverages directory and disk block caches to enhance user experience.
+
+Unfortunately, due to the expiration of my McGill database account, the project is currently inoperable. However, I can provide a detailed PDF outlining the design and implementation for further exploration.
